@@ -1,0 +1,21 @@
+2022/01/14 21:44:13 Starting cygwin install, version 2.915
+2022/01/14 21:44:13 User has backup/restore rights
+2022/01/14 21:44:13 User has symlink creation right
+2022/01/14 21:44:13 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2022/01/14 21:44:13 Current Directory: C:\xampp\htdocs\pet_shop\loginandregister
+2022/01/14 21:44:27 source: download
+2022/01/14 21:44:28 Selected local directory: C:\xampp\htdocs\pet_shop\loginandregister
+2022/01/14 21:44:30 net: Preconfig
+2022/01/14 21:44:48 site: https://mirrors.163.com/cygwin/
+2022/01/14 21:45:30 connection error: 12029 fetching https://mirrors.163.com/cygwin/x86_64/setup.zst.sig
+2022/01/14 21:46:12 connection error: 12029 fetching https://mirrors.163.com/cygwin/x86_64/setup.zst
+2022/01/14 21:46:54 connection error: 12029 fetching https://mirrors.163.com/cygwin/x86_64/setup.xz.sig
+2022/01/14 21:47:36 connection error: 12029 fetching https://mirrors.163.com/cygwin/x86_64/setup.xz
+2022/01/14 21:48:18 connection error: 12029 fetching https://mirrors.163.com/cygwin/x86_64/setup.bz2.sig
+2022/01/14 21:49:00 connection error: 12029 fetching https://mirrors.163.com/cygwin/x86_64/setup.bz2
+2022/01/14 21:49:42 connection error: 12029 fetching https://mirrors.163.com/cygwin/x86_64/setup.ini.sig
+2022/01/14 21:50:25 connection error: 12029 fetching https://mirrors.163.com/cygwin/x86_64/setup.ini
+2022/01/14 21:50:25 mbox note: Unable to get setup from <https://mirrors.163.com/cygwin/>
+2022/01/14 22:09:27 mbox : Are you sure you want to exit setup? Any current download or installation will be aborted.
+2022/01/14 22:09:29 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2022/01/14 22:09:29 Ending cygwin install
